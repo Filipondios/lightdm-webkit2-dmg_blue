@@ -1,7 +1,6 @@
-# Lightdm-webkit2 - 'Filipondios Theme'
+# lightdm-webkit2-dmg_blue
 
-Simple LightDM Webkit2 theme, based in the original <a href="https://github.com/davidmogar/lightdm-webkit2-dmg_blue">lightdm-webkit2-dmg_blue</a> theme 
-from <a href="https://github.com/davidmogar">@davidmogar</a>.
+Simple LightDM Webkit2 theme.
 
 ![Image](https://github.com/davidmogar/lightdm-webkit2-dmg_blue/blob/resources/dmg_blue.png)
 
@@ -15,7 +14,7 @@ This theme is designed to be simple, so it provides the bare minimum to be usabl
 
 ## Installation instructions
 
-The theme depends on the package `lightdm-webkit2-greeter`. Once you have it installed:
+The theme depends on `lightdm-webkit2-greeter`. This package can be installed in Arch Linux with `pacman -S --needed lightdm-webkit2-greeter`. Once done:
 
 * Git clone this repository into `/usr/share/lightdm-webkit/themes/`
 * Edit `/etc/lightdm/lightdm-webkit2-greeter.conf` and set `webkit_theme` to `lightdm-webkit2-dmg_blue`.
