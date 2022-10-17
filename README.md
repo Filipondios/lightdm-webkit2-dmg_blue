@@ -1,4 +1,4 @@
-# lightdm-webkit2-dmg_blue
+# lightdm-webkit2 - 'Filipondios Theme'
 
 Simple LightDM Webkit2 theme, based in the original <a href="https://github.com/davidmogar/lightdm-webkit2-dmg_blue">lightdm-webkit2-dmg_blue</a> theme from <a href="https://github.com/davidmogar">@davidmogar</a>.
 
