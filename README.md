@@ -1,6 +1,6 @@
 # lightdm-webkit2-dmg_blue
 
-Simple LightDM Webkit2 theme to match my desktop.
+Simple LightDM Webkit2 theme.
 
 ![Image](https://github.com/davidmogar/lightdm-webkit2-dmg_blue/blob/resources/dmg_blue.png)
 
