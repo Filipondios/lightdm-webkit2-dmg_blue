@@ -1,18 +1,17 @@
 @import url("reset.css");
 
 :root {
-	--main-accent-color: #3366ff;
-	--main-accent-color-hover: #598bff;
-	--main-bg-color: #151a30;
+	--main-accent-color: #a151d3; /* Login button color */
+	--main-accent-color-hover: #b56de2; /* Login button-hover color */
+	--main-bg-color: #141414; /* Background Color */
 	--main-bg-color-disabled: #1b233b;
-	--main-bg-color-input: #1a2138;
-	--main-bg-color-panel: #222b45;
-	--main-bg-color-selected: #2e3a59;
-	--main-border-color: #101426;
-	--main-fg-color: #fff;
+	--main-bg-color-input: #212121; /* Bar & boxes color*/ 
+	--main-bg-color-panel: #212121; /* Login Panel background */
+	--main-bg-color-selected: #2f2f2f; /* Selected option color-background */
+	--main-border-color: #000000; /* Boxes border color */
+	--main-fg-color: #ffffff; /* Main foreground color */
 	--main-fg-color-dimmed: #6a748d;
-	--main-fg-color-error: #ff3d71;
-
+	--main-fg-color-error: #f07178; /* Error color */
 	--main-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.6);
 	--main-font: "Noto Sans";
 }
@@ -120,6 +119,8 @@ form button {
 	font-weight: bold;
 	padding: 1em;
 	width: 100%;
+	border-radius: 4px;
+	border: 1px solid #c78bed;
 }
 
 form button:disabled,
@@ -133,6 +134,8 @@ form button:focus,
 form button:hover {
 	background-color: var(--main-accent-color-hover);
 	cursor: pointer;
+	border-radius: 4px;
+	border: 1px solid var(--main-accent-color-hover);
 }
 
 form input {
@@ -237,4 +240,17 @@ form .select {
 	text-align: center;
 	transform: translate(-50%, -50%);
 	width: 30em;
+	border-radius: 8px;
+	border: 1px solid #000;
 }
+
+#users {
+	border-radius: 4px;
+	background-color: var(--main-bg-color);
+}
+
+#password {
+	border-radius: 4px;
+	background-color: var(--main-bg-color);
+}
+
