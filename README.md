@@ -2,7 +2,7 @@
 
 Simple LightDM Webkit2 theme, based in the original <a href="https://github.com/davidmogar/lightdm-webkit2-dmg_blue">lightdm-webkit2-dmg_blue</a> theme from <a href="https://github.com/davidmogar">@davidmogar</a>.
 
-![imagen](https://user-images.githubusercontent.com/91225771/196256918-8bb6af7e-d4f7-402f-b116-e2929c0aac2d.png)
+![imagen](https://user-images.githubusercontent.com/91225771/196261833-f19b99fd-77ad-4b8d-b868-f230ee275130.png)
 
 ## Features
 
