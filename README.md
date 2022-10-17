@@ -1,6 +1,6 @@
 # lightdm-webkit2-dmg_blue
 
-Simple LightDM Webkit2 theme.
+Simple LightDM Webkit2 theme, based in the original <a href="https://github.com/davidmogar/lightdm-webkit2-dmg_blue">lightdm-webkit2-dmg_blue</a> theme from <a href="https://github.com/davidmogar">@davidmogar</a>.
 
 ![Image](https://github.com/davidmogar/lightdm-webkit2-dmg_blue/blob/resources/dmg_blue.png)
 
