@@ -14,10 +14,10 @@ This theme is designed to be simple, so it provides the bare minimum to be usabl
 
 ## Installation instructions
 
-The theme depends on `lightdm-webkit2-greeter`. This package can be installed in Arch Linux with `pacman -S --needed lightdm-webkit2-greeter`. Once done:
+The theme depends on the `lightdm-webkit2-greeter` package. Once you have it installed:
 
 * Git clone this repository into `/usr/share/lightdm-webkit/themes/`
-* Edit `/etc/lightdm/lightdm-webkit2-greeter.conf` and set `webkit_theme` to `lightdm-webkit2-dmg_blue`.
+* Edit `/etc/lightdm/lightdm-webkit2-greeter.conf` and set `webkit_theme` to `lightdm-webkit2-dmg_filipondios`.
 
 
 ## License
